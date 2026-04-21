@@ -1,13 +1,11 @@
-
-
 <h1 align="center">Olá, eu sou o Weverton 👋</h1>
 
 <p align="center">
-💻 Back-end Developer • Python • APIs REST • SQL
+💻 Desenvolvedor Back-end | Python • APIs REST • SQL
 </p>
 
 <p align="center">
-Focado em performance, boas práticas e evolução constante 🚀
+Construindo aplicações e análises de dados com foco em performance e boas práticas 🚀
 </p>
 
 <p align="center">
@@ -20,46 +18,80 @@ Focado em performance, boas práticas e evolução constante 🚀
 
 ## 🧠 Sobre mim
 
-* 💻 Desenvolvedor **Back-end com Python**
-* ⚙️ Experiência com **Django / Flask**
-* 🔗 Construindo **APIs REST**
-* 🗄️ Trabalhando com **Banco de Dados SQL**
-* 🚀 Focado em **performance e boas práticas**
-* 📈 Evoluindo para Backend + Dados + Cloud
+Desenvolvedor Back-end em formação, com experiência prática em projetos de **Python, SQL e análise de dados**.
+
+* 💻 Desenvolvimento com **Python (POO, APIs e lógica)**
+* ⚙️ Experiência com **Django e Flask**
+* 🔗 Construção de **APIs REST**
+* 🗄️ Manipulação e modelagem de **banco de dados SQL**
+* 📊 Análise de dados com **Python e Excel**
+* 🚀 Foco em código limpo, performance e boas práticas
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Stack
 
-### 🔹 Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-### 🔹 Banco de Dados
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
-
-### 🔹 Frontend básico
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🔹 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+**Backend:** Python | Django | Flask
+**Banco de Dados:** SQL | SQLite
+**Dados:** Excel | Python (Pandas - base)
+**Frontend:** HTML | CSS | JavaScript (básico)
+**Ferramentas:** Git | GitHub
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-* 🍔 Sabor Express (Python)
-* 🍽️ Modelos de Restaurantes (Python)
-* 🎮 Jogo do Número Secreto (HTML)
-* 🎲 Sorteador de Número (CSS/JS)
-* 🛒 Carrinho de Compras
+### 📊 Dados & SQL
+
+* **Company Data Analysis (SQL)**
+  → Consultas SQL com filtros, agregações e análise de dados
+
+* **Excel Data Analysis**
+  → Análise e organização de dados em planilhas
+
+---
+
+### 🗄️ Banco de Dados
+
+* **School Management Database**
+  → Modelagem de banco de dados relacional
+
+* **Estudando SQL**
+  → Prática com consultas, GROUP BY, HAVING e filtros
+
+---
+
+### 💻 Backend com Python
+
+* **Sabor Express**
+  → Sistema de pedidos simulando fluxo real
+
+* **Modelos de Restaurantes**
+  → Estruturação de lógica backend
+
+---
+
+### 🎮 Lógica e Frontend
+
+* Jogo do Número Secreto
+* Sorteador de Número
+* Carrinho de Compras
+* Amigo Secreto
+* AluGames
+
+---
+
+## 📚 Formação
+
+* Python para Dados (funções, estruturas e exceções)
+* Estatística com Python (frequências e medidas)
+* SQL com SQLite
+* Excel para análise de dados
+* Git e GitHub
+* Lógica de programação (Python e JavaScript)
+* Programação Orientada a Objetos com Python
+* Fundamentos de análise de dados
+* Data Storytelling
 
 ---
 
@@ -72,17 +104,12 @@ Focado em performance, boas práticas e evolução constante 🚀
 
 ---
 
-## 🚀 Objetivo
+## 🎯 Objetivo
 
-Me tornar um desenvolvedor completo focado em:
+Buscando oportunidade de estágio em tecnologia para atuar com:
 
-* Backend escalável
-* APIs performáticas
+* Backend com Python
+* Desenvolvimento de APIs
 * Banco de dados
-* Cloud (AWS futuramente)
-
----
-
-<p align="center">
-🔥 Sempre aprendendo, sempre evoluindo
-</p>
+* Análise de dados
+* Evolução para Cloud (AWS)
