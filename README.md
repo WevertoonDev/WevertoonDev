@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Weverton 👋</h1>
+# <h1 align="center">Olá, eu sou o Weverton 👋</h1>
 
 <p align="center">
 💻 Desenvolvedor Back-end | Python • APIs REST • SQL
@@ -43,6 +43,9 @@ Desenvolvedor Back-end em formação, com experiência prática em projetos de *
 
 ### 📊 Dados & SQL
 
+* **Black Friday Business Analysis**
+  → Análise de dados de vendas com SQL e relatórios de negócio
+
 * **Company Data Analysis (SQL)**
   → Consultas SQL com filtros, agregações e análise de dados
 
@@ -58,6 +61,9 @@ Desenvolvedor Back-end em formação, com experiência prática em projetos de *
 
 * **Estudando SQL**
   → Prática com consultas, GROUP BY, HAVING e filtros
+
+* **SQL Analise Pedidos**
+  → Análise de pedidos utilizando SQL e métricas de negócio
 
 ---
 
@@ -106,10 +112,12 @@ Desenvolvedor Back-end em formação, com experiência prática em projetos de *
 
 ## 🎯 Objetivo
 
-Buscando oportunidade de estágio em tecnologia para atuar com:
+Busco minha primeira oportunidade na área de tecnologia como desenvolvedor Back-end ou analista de dados, aplicando Python, SQL e análise de dados para resolver problemas reais e evoluir constantemente como profissional.
 
-* Backend com Python
-* Desenvolvimento de APIs
-* Banco de dados
-* Análise de dados
-* Evolução para Cloud (AWS)
+---
+
+## 📫 Contato
+
+📎 LinkedIn: [https://www.linkedin.com/in/weverton-martins-9a8200328](https://www.linkedin.com/in/weverton-martins-9a8200328)
+💻 GitHub: [https://github.com/WevertoonDev](https://github.com/WevertoonDev)
+
